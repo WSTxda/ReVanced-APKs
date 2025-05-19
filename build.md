@@ -1,4 +1,5 @@
 Reddit: 2024.17.0  
+Spotify: 9.0.46.364  
 Tiktok: 36.5.4  
 Twitch: 24.4.0  
 YT-Music: 8.05.51  
