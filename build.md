@@ -1,6 +1,5 @@
 Reddit: 2024.17.0  
 Tiktok: 36.5.4  
-Twitch: 24.6.0  
 YT-Music: 8.05.51  
 YouTube: 20.12.46  
 
