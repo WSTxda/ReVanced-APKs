@@ -1,5 +1,4 @@
 GooglePhotos: 7.45.0.807274941  
-Reddit: 2024.17.0  
 Spotify: 9.0.78.1116  
 Tiktok: 36.5.4  
 YT-Music: 7.29.52  
