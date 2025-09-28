@@ -16,6 +16,7 @@ excluded-patches = "'Hide Shorts components' 'Theme' 'Change header' 'Custom bra
 enabled = true
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+excluded-patches = "'Theme'"
 arch = "arm64-v8a"
 
 [Google-Photos]
