@@ -1,15 +1,12 @@
-Google-Photos: 7.57.0.843750501  
-Tiktok: 36.5.4  
-YT-Music: 8.10.52  
-YouTube: 20.14.43  
+Spotify-Extended: 9.0.90.1229  
 
 Install [MicroG RE](https://github.com/WSTxda/MicroG-RE/releases) for non-root YouTube, YT Music and Google Photos APKs  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.47.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.47.0)  
+CLI: inotia00/revanced-cli-5.0.2-all.jar  
+Patches: anddea/patches-3.15.0.rvp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v3.15.0)  
 
 Skipped:  
-Patches: anddea/patches-3.14.0.rvp                
+Patches: ReVanced/patches-5.47.0.rvp    
